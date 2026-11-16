@@ -1,5 +1,6 @@
-# Gridiron-Tracker[Gridiron_Tracker_README.md](https://github.com/user-attachments/files/34928431/Gridiron_Tracker_README.md)
+
 # Gridiron Tracker
+
 ## CIS 3400 — Advanced Programming | Project 2
 
 **Student:** Dyllon Houghton  
