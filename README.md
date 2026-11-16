@@ -95,7 +95,7 @@ The database will be initialized on first launch. No external API keys are plann
 | Edit record and restart | Changes persist | Not yet tested |
 
 ## 8. AI-Assisted Development Disclosure
-**AI tools planned:** ChatGPT.
+**AI tools planned:** Chat.
 
 ### How AI Will Be Used
 ChatGPT will assist with brainstorming, proposal writing, starter code, debugging guidance, and test-case suggestions. Actual development assistance and code changes will be documented as work proceeds.
